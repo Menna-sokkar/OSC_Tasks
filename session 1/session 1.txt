@@ -1,0 +1,12 @@
+commands:
+---------
+mkdir
+cd
+touch
+ls (-a)
+nano
+cat
+cp (-r)
+mv
+rm (-r)
+
