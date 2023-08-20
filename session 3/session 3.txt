@@ -1,0 +1,43 @@
+Commands :
+----------
+sudo
+useradd (-m)
+passwd
+groupadd
+usermod (-a -G)
+id
+mkdir
+touch
+chmod
+ls (-l)
+chown
+chgrp
+sleep
+kill
+vim
+killall (-s)
+ps
+apt (install , remove)
+
+
+Notes :
+-------
+=> in step 4 => i already installed "vim" package previously with (sudo apt install vim) but the attached screenshot is from my second trial cause i made some mistakes at the first one
+
+=> in step 5 => the attached screenshot is a collage between 2 screenshots to make (the install and remove lines) in the same screenshot. (skipped the rest of the output lines)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+مسحت رغي الانستال 
+سكيب ل انستال vim
